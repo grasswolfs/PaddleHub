@@ -51,7 +51,7 @@ module = hub.Module(name="ernie")
 
 PaddleHub还提供很多了其它可用于迁移学习的预训练模型, 在PaddleHub的官网上，图像分类、语义模型和情感分析几个目录下的预训练模型都支持迁移学习，用户仅需要将name的取值换成预训练模型名称即可，例如右侧红框中的示例。
 
-![](../imgs/Howtofinetune1.png)
+![](../../imgs/Howtofinetune1.png)
 
 
 
